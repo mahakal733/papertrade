@@ -9,7 +9,7 @@ import Trade from "../components/trade.jsx";
 import Navbar from "../components/Navbar.jsx";
 import Line from "../components/Line.jsx";
 import Position from "../components/Position.jsx";
-import Profit from "../components/profit.jsx";
+import Profit from "../components/Profit.jsx";
 import History from "../components/history.jsx";
 import '../CSS/watchlist.css'
 
